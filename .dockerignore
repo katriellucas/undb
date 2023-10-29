@@ -1,0 +1,14 @@
+.git
+**/.next
+**/build
+**/dist
+node_modules
+**/node_modules
+**/.DS_Store
+*.log
+docker
+out
+.undb
+**/.svelte-kit
+.turbo
+apps/backend/attachments
